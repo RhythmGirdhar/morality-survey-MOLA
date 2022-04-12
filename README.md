@@ -3,9 +3,10 @@
 ## Tech Stack Used:
 
 ```
-Front-end - Vite, React
+Front-end - Vite, react.js, BootStrap
 Resource Manager - yarn
 Backend - express, node.js
+Database - MongoDB (Atlas instance and managed by Mongo Compass on local system)
 ```
 
 ## Install dependencies
