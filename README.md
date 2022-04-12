@@ -1,5 +1,13 @@
 # morality-survey
 
+##Tech Stack Used:
+
+```
+Front-end - Vite, React
+Resource Manager - yarn
+Backend - express, node.js
+```
+
 ## Install dependencies
 
 ```
