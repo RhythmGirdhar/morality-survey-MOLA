@@ -1,6 +1,6 @@
 # morality-survey
 
-##Tech Stack Used:
+## Tech Stack Used:
 
 ```
 Front-end - Vite, React
@@ -27,3 +27,5 @@ yarn start
 cd packages/morality-frontend
 yarn start --host
 ```
+
+## View it on - localhost:5002
